@@ -10,4 +10,4 @@ github_username:  angelinayhl
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minimal: jekyll-theme-minimal
+minima: jekyll-theme-minimal
